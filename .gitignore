@@ -1,0 +1,17 @@
+Backup/*
+SRC/.vs/*
+SRC/.deprecated/*
+TOX/private/*
+.deprecated/*
+AP/*
+.misc/*
+BEYOND/*
+Backup/*
+SOURCE_MODELS/backup/*
+SOURCES.VID/*
+READY/*
+PRE_READY/*
+EXPERIMENTS/*
+SOURCE_AUDIO/private/*
+SOURCE_MODELS/*
+SOURCE_AUDIO/*

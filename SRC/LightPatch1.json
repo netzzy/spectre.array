@@ -1,0 +1,138 @@
+{
+  "dmxpatch": [
+      {
+          "fixture": "DMXMover",
+          "name": "Mover_1",
+          "outputnode": "universe1",
+          "control": [
+              {
+                  "source": "PIXELS_MAP",
+                  "x": 1,
+                  "y": 1,
+                  "map": [
+                      {
+                          "r": "X",
+                          "g": "Y",
+                          "b": "Z"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+        "fixture": "DMXMover",
+        "name": "Mover_2",
+        "outputnode": "universe1",
+        "control": [
+            {
+                "source": "PIXELS_MAP",
+                "x": 1,
+                "y": 2,
+                "map": [
+                    {
+                        "r": "X",
+                        "g": "Y",
+                        "b": "Z"
+                    }
+                ]
+            }
+        ]
+    },      {
+        "fixture": "DMXMover",
+        "name": "Mover_3",
+        "outputnode": "universe1",
+        "control": [
+            {
+                "source": "PIXELS_MAP",
+                "x": 1,
+                "y": 3,
+                "map": [
+                    {
+                        "r": "X",
+                        "g": "Y",
+                        "b": "Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "fixture": "DMXMover",
+        "name": "Mover_4",
+        "outputnode": "universe1",
+        "control": [
+            {
+                "source": "PIXELS_MAP",
+                "x": 1,
+                "y": 4,
+                "map": [
+                    {
+                        "r": "X",
+                        "g": "Y",
+                        "b": "Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "fixture": "DMXMover",
+        "name": "Mover_5",
+        "outputnode": "universe1",
+        "control": [
+            {
+                "source": "PIXELS_MAP",
+                "x": 1,
+                "y": 5,
+                "map": [
+                    {
+                        "r": "X",
+                        "g": "Y",
+                        "b": "Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "fixture": "DMXMover",
+        "name": "Mover_6",
+        "outputnode": "universe1",
+        "control": [
+            {
+                "source": "PIXELS_MAP",
+                "x": 1,
+                "y": 6,
+                "map": [
+                    {
+                        "r": "X",
+                        "g": "Y",
+                        "b": "Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "fixture": "DMXMover",
+        "name": "Mover_7",
+        "outputnode": "universe1",
+        "control": [
+            {
+                "source": "PIXELS_MAP",
+                "x": 1,
+                "y": 7,
+                "map": [
+                    {
+                        "r": "X",
+                        "g": "Y",
+                        "b": "Z"
+                    }
+                ]
+            }
+        ]
+    }
+
+
+  ]
+}

@@ -1,0 +1,260 @@
+{
+    "dmxpatch": [
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_5_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_5_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_5_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_5_4",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_5_5",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_5_6",
+        "outputnode": "universe1"
+      },
+
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_4_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_4_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_4_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_4_4",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_4_5",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_4_6",
+        "outputnode": "universe1"
+      },
+
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_3_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_3_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_3_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_3_4",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_3_5",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_3_6",
+        "outputnode": "universe1"
+      },
+
+     {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_2_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_2_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_2_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_2_4",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_2_5",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_2_6",
+        "outputnode": "universe1"
+      },
+
+
+
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_1_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_1_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_1_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_1_4",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_1_5",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "ledRowRight_1_6",
+        "outputnode": "universe1"
+      },
+
+      {
+        "fixture": "space",
+        "name": "space1",
+        "amount": 16,
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_1_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_1_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_1_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_1_4",
+        "outputnode": "universe1"
+      },
+
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_2_1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_2_2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_2_3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "FusionBarQXV",
+        "name": "antenna_2_4",
+        "outputnode": "universe1"
+      },
+
+
+
+      {
+        "fixture": "SourceFourLED",
+        "name": "spot1",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "SourceFourLED",
+        "name": "spot2",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "SourceFourLED",
+        "name": "spot3",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "SourceFourLED",
+        "name": "spot4",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "SourceFourLED",
+        "name": "spot5",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "ElationProteusBrutus",
+        "name": "beamHatch",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "ElationProteusBrutus",
+        "name": "beamBottom",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "ThunderRoar",
+        "name": "rightBotStove",
+        "outputnode": "universe1"
+      },
+      {
+        "fixture": "ThunderRoar",
+        "name": "rightTubes",
+        "outputnode": "universe1"
+      }                       
+
+
+      
+    ]
+  }
+  
